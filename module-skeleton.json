@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-service-management-flutter",
+  "capabilityKey": "planned:sap:service-management",
+  "presentation": "mobile-flutter",
+  "package": "module_sap_service_management_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/sap/nextjs/service-management.md",
+  "presentationPlan": "projects/sap/flutter/service-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
